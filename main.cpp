@@ -2,5 +2,5 @@
 
 int main()
 {
-    cout <<"Yellow";
+    cout <<"Blue";
 }
