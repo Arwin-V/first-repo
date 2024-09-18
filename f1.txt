@@ -1,1 +1,1 @@
-vooid func();
+bool func();
